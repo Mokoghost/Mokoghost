@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mokoghost
 - 👀 I’m interested in machine learning and computational neuronscience.
-- 🌱 I’m currently learning [Reinforcement Learning](https://dpmd.ai/DeepMindxUCL21) and [Neural Computation](https://redwood.berkeley.edu/courses/vs265/).
+- 🌱 I’m currently an MRes AI&ML student in Imperial College London.
 - 📫 How to reach me: [mokoghost@gmail.com](mailto:mokoghost@gmail.com)
 
 <!---
