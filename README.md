@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mokoghost
 - 👀 I’m interested in machine learning and computational neuronscience.
-- 🌱 I’m currently an MRes AI&ML student in Imperial College London.
+- 🌱 I’m currently a Machine Learning Engineer at Alibaba.
 - 📫 How to reach me: [mokoghost@gmail.com](mailto:mokoghost@gmail.com)
 
 <!---
